@@ -1,0 +1,10 @@
+C:\Users\Frank\Desktop\CIS3309\Lab 1\PayrollProram\HealthClub\bin\Debug\HealthClub.exe.config
+C:\Users\Frank\Desktop\CIS3309\Lab 1\PayrollProram\HealthClub\bin\Debug\HealthClub.exe
+C:\Users\Frank\Desktop\CIS3309\Lab 1\PayrollProram\HealthClub\bin\Debug\HealthClub.pdb
+C:\Users\Frank\Desktop\CIS3309\Lab 1\PayrollProram\HealthClub\obj\Debug\HealthClub.healthclubForm.resources
+C:\Users\Frank\Desktop\CIS3309\Lab 1\PayrollProram\HealthClub\obj\Debug\HealthClub.Properties.Resources.resources
+C:\Users\Frank\Desktop\CIS3309\Lab 1\PayrollProram\HealthClub\obj\Debug\HealthClub.csproj.GenerateResource.cache
+C:\Users\Frank\Desktop\CIS3309\Lab 1\PayrollProram\HealthClub\obj\Debug\HealthClub.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Desktop\CIS3309\Lab 1\PayrollProram\HealthClub\obj\Debug\HealthClub.exe
+C:\Users\Frank\Desktop\CIS3309\Lab 1\PayrollProram\HealthClub\obj\Debug\HealthClub.pdb
+C:\Users\Frank\Desktop\CIS3309\Lab 1\PayrollProram\HealthClub\obj\Debug\HealthClub.csproj.AssemblyReference.cache

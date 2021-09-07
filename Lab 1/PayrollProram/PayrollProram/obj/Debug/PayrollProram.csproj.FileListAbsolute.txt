@@ -1,0 +1,10 @@
+C:\Users\Frank\Desktop\CIS3309\Lab 1\PayrollProram\PayrollProram\bin\Debug\PayrollProram.exe.config
+C:\Users\Frank\Desktop\CIS3309\Lab 1\PayrollProram\PayrollProram\bin\Debug\PayrollProram.exe
+C:\Users\Frank\Desktop\CIS3309\Lab 1\PayrollProram\PayrollProram\bin\Debug\PayrollProram.pdb
+C:\Users\Frank\Desktop\CIS3309\Lab 1\PayrollProram\PayrollProram\obj\Debug\PayrollProram.csproj.AssemblyReference.cache
+C:\Users\Frank\Desktop\CIS3309\Lab 1\PayrollProram\PayrollProram\obj\Debug\PayrollProram.frmMain.resources
+C:\Users\Frank\Desktop\CIS3309\Lab 1\PayrollProram\PayrollProram\obj\Debug\PayrollProram.Properties.Resources.resources
+C:\Users\Frank\Desktop\CIS3309\Lab 1\PayrollProram\PayrollProram\obj\Debug\PayrollProram.csproj.GenerateResource.cache
+C:\Users\Frank\Desktop\CIS3309\Lab 1\PayrollProram\PayrollProram\obj\Debug\PayrollProram.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Desktop\CIS3309\Lab 1\PayrollProram\PayrollProram\obj\Debug\PayrollProram.exe
+C:\Users\Frank\Desktop\CIS3309\Lab 1\PayrollProram\PayrollProram\obj\Debug\PayrollProram.pdb
